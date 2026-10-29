@@ -24,6 +24,8 @@ Land-ice surface height change for the Arctic from ICESat-2 ATL15 — observatio
 
 <p>Сначала карта стоит под наклоном, как лист в пространстве, затем примерно за 2,6 секунды плавно ложится в плоский вид, и только после этого идут кварталы и цвета. Весь период занимает около 20 секунд и затем повторяется. Дальше и назад можно идти кнопками Play и Pause, ползунком, стрелками и пробелом.</p>
 
+**[Ссылка открытого доступа на карту - Арктика. Наблюдения и Прогноз](https://elenatratsevskaya.github.io/AI-Project_Arctic-land-ice-height_Outlook/arctic-land-ice-height-outlook)**
+
 **[Ссылка открытого доступа на карту - Арктика](https://elenatratsevskaya.github.io/AI-Project_Arctic-Ice_Cursor/arctic-land-ice-height)**
 
 **[Ссылка открытого доступа на карту - Антарктида](https://elenatratsevskaya.github.io/AI-Project_Antarctic-Ice_Cursor/antarctic-land-ice-height.html)**
