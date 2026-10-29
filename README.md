@@ -1,5 +1,7 @@
 # AI-Project_Arctic-land-ice-height_Outlook
 Land-ice surface height change for the Arctic from ICESat-2 ATL15 — observations and a linear outlook through 2030
+<br>
+Изменение высоты наземного льда Арктики и Антарктиды по ICESat-2 ATL15 — наблюдения и линейный outlook до 2030
 
 Это продолжение проекта  [AI-Project_Antarctic-Ice_Cursor](https://github.com/ElenaTratsevskaya/AI-Project_Antarctic-Ice_Cursor)
 и проекта  [AI-Project_Arctic-Ice_Cursor](https://github.com/ElenaTratsevskaya/AI-Project_Arctic-Ice_Cursor)
