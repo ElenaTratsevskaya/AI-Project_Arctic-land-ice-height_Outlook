@@ -60,7 +60,7 @@ Land-ice surface height change for the Arctic from ICESat-2 ATL15 — observatio
     <td>Поверхность опустилась. −5 м — самый тёмный красный шкалы ±5 м.</td>
   </tr>
   <tr>
-    <td>Тёмно-красный #5a0812</td>
+    <td>Тёмно-красный #9e1c2b</td>
     <td>Поверхность опустилась сильнее −5 м (beyond −5 m).</td>
   </tr>
 </table>
